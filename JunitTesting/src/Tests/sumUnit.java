@@ -12,6 +12,7 @@ public class sumUnit {
 		int output = obj1.sum(4,6);
 //Test the output
 		assertEquals(10, output);	
+		assertEquals(10, output);
 	
 	}
 
