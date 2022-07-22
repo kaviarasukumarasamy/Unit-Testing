@@ -13,6 +13,7 @@ public class squareUnit {
 //Test the output
 		assertEquals(16, output);
 		//assertEquals(16, output);
+		//assertEquals(16, output);
 		
 	}
 
