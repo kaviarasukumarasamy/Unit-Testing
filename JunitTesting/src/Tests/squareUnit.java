@@ -12,6 +12,7 @@ public class squareUnit {
 		int output = obj1.square(4);
 //Test the output
 		assertEquals(16, output);
+		//assertEquals(16, output);
 		
 	}
 
